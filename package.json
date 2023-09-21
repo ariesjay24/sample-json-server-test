@@ -17,6 +17,6 @@
     "json-server-auth": "^2.1.0"
   },
   "engines": {
-    "node": "18.17.1"
+    "node": "18.18.0"
   }
 }
